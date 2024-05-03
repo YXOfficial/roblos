@@ -7155,27 +7155,27 @@ elseif MODE == "LIGHTING CANNON - RUN IN THE 90S" then
 	end
 	Mouse.Button1Down:Connect(function()
 		if ATTACK == false and MODE == "LIGHTING CANNON - NORMAL" then
-			LIGHTIN()
+			--LIGHTIN()
 		end
 	end)
 	Mouse.Button1Down:Connect(function()
 		if ATTACK == false and MODE == "HONEY LIGHTNING CANNON" then
-			LIGHTIN()
+		--	LIGHTIN()
 		end
 	end)
 	Mouse.Button1Down:Connect(function()
 		if ATTACK == false and  MODE == "LIGHTING CANNON - INSANITY" then
-			LIGHTIN()
+		--	LIGHTIN()
 		end
 	end)
 	Mouse.Button1Down:Connect(function()
 		if ATTACK == false and  MODE == "LIGHTING CANNON - ERROR"  then
-			LIGHTIN()
+			--LIGHTIN()
 		end
 	end)
 	Mouse.Button1Down:Connect(function()
 		if ATTACK == false and MODE == "LIGHTING CANNON - RUN IN THE 90S" then
-			LIGHTIN()
+			--LIGHTIN()
 		end
 	end)
 	Mouse.Button1Down:Connect(function()
@@ -7185,7 +7185,7 @@ elseif MODE == "LIGHTING CANNON - RUN IN THE 90S" then
 	end)
 	Mouse.Button1Down:Connect(function()
 		if ATTACK == false and MODE == "CHILLED" then
-			LIGHTIN()
+		--	LIGHTIN()
 		end
 	end)
 	Mouse.Button1Down:Connect(function()
